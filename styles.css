@@ -36,7 +36,7 @@ body::before {
     min-height: 100px;
     background-color: #fff;
     color: #333;
-    font-size: 30px;
+   
     text-align: right;
     padding: 10px;
     line-height: 1.2;
@@ -44,7 +44,7 @@ body::before {
     box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.2);
     margin-bottom: 20px;
     word-wrap: break-word;
-    overflow-wrap: break-word;
+    
     overflow: hidden;
     display: flex;
     align-items: flex-end;
